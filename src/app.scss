@@ -1,0 +1,17 @@
+:root {
+  --backgroundGrey: #242424;
+}
+
+body {
+  padding: 1rem;
+  font-size: 16px;
+  font-family: 'Inter Tight', sans-serif;
+  background-color: var(--backgroundGrey);
+  color: white;
+}
+
+.title {
+  color: white;
+  font-size: 4rem;
+  margin: 1rem 0;
+}
